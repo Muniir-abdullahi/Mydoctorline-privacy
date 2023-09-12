@@ -11,9 +11,13 @@ When you use our app, we may collect the following information for the purposes 
 Personal Information: We collect the following personal information for identification and to provide our service:
 
 Name
+
 Phone number
+
 Photo
+
 Email address
+
 **Payment Information**: When users make payments to doctors, we collect and process payment-related information. This may include phone numbers, payment card details, or other payment methods. We use this information to facilitate the payment process.
 
 **Camera and Microphone Access**: We may request access to your device's camera and microphone for audio and video consultations.
