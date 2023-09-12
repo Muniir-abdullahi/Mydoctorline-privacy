@@ -4,8 +4,7 @@ This Privacy Policy will help you understand how mydoctorline collects, uses, an
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which can be found on our website unless otherwise defined in this Privacy Policy.
 
-**Information Collection and Use
-**
+**Information Collection and Use** 
 When you use our app, we may collect the following information for the purposes described:
 
 Personal Information: We collect the following personal information for identification and to provide our service:
