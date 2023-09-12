@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 This Privacy Policy will help you understand how mydoctorline collects, uses, and safeguards your information when you use the mydoctorline mobile application. By using our Service, you agree to the collection and use of your information as described in this Privacy Policy. Please read this Privacy Policy carefully.
 
